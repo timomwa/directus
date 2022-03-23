@@ -15,7 +15,7 @@ _Example:_
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "directus start"
+    "start": "npx directus start"
   },
 ...
 }
